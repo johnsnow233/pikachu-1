@@ -232,12 +232,11 @@ btnPlay.onclick = ()=>{
     id = play()
 }
 btnSlow.onclick = ()=>{
-    time = 200
+    time = 300
     pause()
     id = play()
 }
 btnNormal.onclick = ()=>{
-    time = 100
     pause()
     id = play()
 }
