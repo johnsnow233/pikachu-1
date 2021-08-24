@@ -237,6 +237,7 @@ btnSlow.onclick = ()=>{
     id = play()
 }
 btnNormal.onclick = ()=>{
+    time = 100
     pause()
     id = play()
 }
